@@ -41,7 +41,7 @@ CODE:
 
 int main() {
 
-    char s[100],*c;
+    char s[1000],*c;
     int i = 0;
 
     scanf("%[^\n]", s);
